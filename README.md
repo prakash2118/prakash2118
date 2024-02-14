@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Prakash 
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Prakash_E?theme=dark&font=Marcellus&ext=activity)
+
 <!--
 **prakash2118/prakash2118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
