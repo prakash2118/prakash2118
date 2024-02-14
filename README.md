@@ -1,3 +1,4 @@
+![MasterHead](https://github.com/prakash2118/prakash2118/assets/90789267/43c74fcf-0ff2-4163-be5e-dead47410395)
 <h1 align="center">Hi 👋, I'm Prakash</h1>
 <h3 align="center">A passionate Java Developer</h3>
 
@@ -13,7 +14,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Prakash_E?theme=dark&font=Marcellus&ext=activity)
 
